@@ -1,2 +1,2 @@
 this is the initial commit for our file .we began implementing the c code today
-we are making some progress here ,today we implemented loops
+we are making some progress here ,today we implemented loops. today we have made conditions for the loops.
